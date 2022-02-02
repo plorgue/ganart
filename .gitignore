@@ -1,0 +1,11 @@
+.vscode
+
+note.md
+gan.ipynb
+
+/model/original
+
+/data/archive
+/data/celeba
+/data/MNIST
+/data/*.zip
